@@ -1,6 +1,6 @@
-# Weather-App using HTML ,CSS ,Javascript
+## Weather-App using HTML ,CSS ,Javascript
 
-## :link:  https://sahil-atahar.github.io/Weather-App/
+## :link:  https://sahilatahar.github.io/Weather-App/
 ## :camera: Screenshots
 
 <table>
